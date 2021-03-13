@@ -1,2 +1,2 @@
 # Google_keep_clone
-Created with CodeSandbox
+### Tech used:  1) React -JS  2)HTML   3)CSS
